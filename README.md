@@ -4,7 +4,7 @@ Examples of usage of the Leaflet-Geoman library. Leaflet-Geoman is the most powe
 
 Find the OS version of [Leaflet-Geoman here](https://github.com/geoman-io/leaflet-geoman)
 
-Check out the full power of Leaflet-Geoman Pro on geoman.io/demo
+Check out the full power of Leaflet-Geoman Pro on https://geoman.io/demo
 
 # Contributing
 

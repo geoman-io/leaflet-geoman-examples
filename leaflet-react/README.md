@@ -44,3 +44,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+### Leaflet Specific Dependencies
+
+This repo comes with leaflet and geoman(free version) dependencies installed. If you would like to include them for a different repo, you need to run below commands.
+
+```bash
+npm i @geoman-io/leaflet-geoman-free leaflet react-leaflet  
+npm install -D @types/leaflet
+```

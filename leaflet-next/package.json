@@ -12,6 +12,7 @@
     "@geoman-io/leaflet-geoman-free": "^2.16.0",
     "leaflet": "^1.9.4",
     "next": "14.2.1",
+    "protomaps-leaflet": "^5.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-leaflet": "^4.2.1"
